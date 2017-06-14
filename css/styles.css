@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#pamela-lee-cover {
+  background-image: url("http://i.imgur.com/sbasqFO.jpg");
+}
+
+#pamela-lee-card {
+  background-image: url("http://i.imgur.com/Kk9k059.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
